@@ -1,5 +1,4 @@
-## Hi there 👋
-# I'm Yinuo 👋
+## Hi there! I'm Yinuo 👋
 
 🎓 MSc Business Analytics @ Nanyang Technological University  
 🎓 BSc Biological Sciences @ Zhejiang University
